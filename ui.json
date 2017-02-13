@@ -1,0 +1,12 @@
+{
+  "defaultEntryPoint": "index.html",
+  "namespace": "EbayAccountManagement",
+  "menuEntries": [
+    {
+      "label": "menu.authentication",
+      "menu": "settings/markets/ebay",
+      "urlKey": "authentication",
+      "entryPoint": "index.html?action=authentication"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 0.1,
+  "name": "EbayAccountManagement",
+  "description": "Plugin für die eBay-Kontoverwaltung.",
+  "shortDescription": "Plugin für die eBay-Kontoverwaltung.",
+  "namespace": "EbayAccountManagement",
+  "author": "plentymarkets GmbH",
+  "email": "support@plentymarkets.eu",
+  "license":"AGPL-3.0",
+  "categories": ["Plugins/Backend"],
+  "type": "general",
+  "price": 0.00,
+  "serviceProvider": "EbayAccountManagement\\EbayAccountManagementServiceProvider"
+}
