@@ -2,7 +2,10 @@
   "version": 0.1,
   "name": "EbayAccountManagement",
   "description": "Plugin für die eBay-Kontoverwaltung.",
-  "shortDescription": "Plugin für die eBay-Kontoverwaltung.",
+  "shortDescription": {
+    "de": "Plugin für die eBay-Kontoverwaltung OAuth.",
+    "en": "Plugin for eBay OAuth account management."
+},
   "namespace": "EbayAccountManagement",
   "author": "plentymarkets GmbH",
   "email": "support@plentymarkets.eu",
