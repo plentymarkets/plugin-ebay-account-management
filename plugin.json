@@ -1,6 +1,6 @@
 {
   "version": 0.1,
-  "name": "EbayAccountManagement",
+  "name": "eBayCredentialsManagement",
   "description": "Plugin für die eBay-Kontoverwaltung.",
   "shortDescription": "Plugin für die eBay-Kontoverwaltung.",
   "namespace": "EbayAccountManagement",

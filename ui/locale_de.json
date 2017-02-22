@@ -19,6 +19,7 @@
   "production": "Production",
   "sandbox": "Sandbox",
   "status": "Status",
+  "successAuthentication": "Konto authentifiziert.",
   "successDeleteCredentials": "Konto gelöscht.",
   "successRefreshToken": "Token erneuert.",
   "update": "Aktualisieren"

@@ -3,7 +3,7 @@
   "namespace": "EbayAccountManagement",
   "menuEntries": [
     {
-      "label": "menu.authentication",
+      "label": "menu.credentialsManagement",
       "menu": "settings/markets/ebay",
       "urlKey": "authentication",
       "entryPoint": "index.html?action=authentication"
