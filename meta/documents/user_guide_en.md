@@ -6,7 +6,7 @@
 
 Go to **Settings » Markets » eBay » OAuth accounts** to activate new accounts for eBay. You need your access data consisting of the user name and password. When changing your eBay access data, you have to update and synchronise your account in plentymarkets. plentymarkets allows you to manage several eBay accounts. Proceed as follows to add one or more accounts.
 
-##### Activating a new account:
+#### Activating a new account:
 
     1. Go to **Settings » Markets » eBay » OAuth accounts**.
     2. Select **Production** for the environment if the account should not be a test account.
