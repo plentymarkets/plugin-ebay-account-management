@@ -9,8 +9,8 @@ Im Menü **Einstellungen » Märkte » eBay » OAuth-Konten** schalten Sie neue 
 ##### Neues Konto freischalten:
 
     1. Öffnen Sie das Menü **Einstellungen » Märkte » eBay » OAuth-Konten**.
-    2. Wählen Sie ##Production## für die Umgebung, wenn das neue Konto kein Testumgebungskonto sein soll.
-    3. Klicken Sie auf ##Neues Konto authentifizieren##.
+    2. Wählen Sie **Production** für die Umgebung, wenn das neue Konto kein Testumgebungskonto sein soll.
+    3. Klicken Sie auf **Neues Konto authentifizieren**.
     → Sie werden zu eBay weitergeleitet und müssen dort Ihre Daten authentifizieren.
     → Das Konto wird im Menü **OAuth-Konten** angezeigt.
     
