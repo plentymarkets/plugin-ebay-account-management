@@ -1,12 +1,12 @@
 {
   "defaultEntryPoint": "index.html",
-  "namespace": "EbayAccountManagement",
+  "namespace": "EbayOAuth2",
   "menuEntries": [
     {
-      "label": "menu.credentialsManagement",
+      "label": "menu.oAuth2",
       "menu": "settings/markets/ebay",
-      "urlKey": "authentication",
-      "entryPoint": "index.html?action=authentication"
+      "urlKey": "oauth2",
+      "entryPoint": "index.html?action=oauth2"
     }
   ]
 }

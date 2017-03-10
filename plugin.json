@@ -1,17 +1,17 @@
 {
-  "version": 0.1,
-  "name": "eBayCredentialsManagement",
+  "version": 0.9,
+  "name": "EbayOAuth2",
   "description": "Plugin für die eBay-Kontoverwaltung.",
   "shortDescription": {
     "de": "Plugin für die eBay-Kontoverwaltung OAuth.",
     "en": "Plugin for eBay OAuth account management."
-},
-  "namespace": "EbayAccountManagement",
+  },
+  "namespace": "EbayOAuth2",
   "author": "plentymarkets GmbH",
   "email": "support@plentymarkets.eu",
   "license":"AGPL-3.0",
   "categories": ["Plugins/Backend"],
   "type": "general",
   "price": 0.00,
-  "serviceProvider": "EbayAccountManagement\\EbayAccountManagementServiceProvider"
+  "serviceProvider": "EbayOAuth2\\AuthServiceProvider"
 }
