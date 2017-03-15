@@ -4,9 +4,9 @@ namespace EbayOAuth2;
 use Plenty\Plugin\ServiceProvider;
 
 /**
- * Class AuthServiceProvider
+ * Class EbayOAuth2ServiceProvider
  */
-class AuthServiceProvider extends ServiceProvider
+class EbayOAuth2ServiceProvider extends ServiceProvider
 {
 	/**
 	 * @return void

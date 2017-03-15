@@ -13,5 +13,5 @@
   "categories": ["Plugins/Backend"],
   "type": "general",
   "price": 0.00,
-  "serviceProvider": "EbayOAuth2\\AuthServiceProvider"
+  "serviceProvider": "EbayOAuth2\\EbayOAuth2ServiceProvider"
 }
