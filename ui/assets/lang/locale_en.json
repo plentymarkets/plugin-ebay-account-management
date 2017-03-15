@@ -28,7 +28,7 @@
   "save": "Save",
   "status": "Status",
   "successAuthentication": "Account authenticated.",
-  "successRemovedCredentials": "Account deleted.",
+  "successRemoveCredentials": "Account deleted.",
   "successRefreshToken": "Token refreshed.",
-  "successSaveCredentials": "Account saved.",
+  "successSaveCredentials": "Account saved."
 }
