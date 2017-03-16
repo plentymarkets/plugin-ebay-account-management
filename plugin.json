@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "namespace": "EbayOAuth2",
   "name": "EbayOAuth2",
-  "description": "Plugin für die eBay-Kontoverwaltung.",
+  "description": "Plugin für die eBay-Kontoverwaltung OAuth2.",
   "shortDescription": {
     "de": "Plugin für die eBay-Kontoverwaltung OAuth2.",
     "en": "Plugin for eBay OAuth2 account management."
