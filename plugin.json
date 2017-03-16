@@ -11,7 +11,8 @@
   "authorIcon": "icon_author_xs.png",
   "email": "support@plentymarkets.eu",
   "license":"AGPL-3.0",
-  "categories": ["Plugins/Backend"],
+  "pluginIcon":"icon_plugin_xs.png",
+  "categories": [3523],
   "type": "general",
   "price": 0.00,
   "serviceProvider": "EbayOAuth2\\EbayOAuth2ServiceProvider"
