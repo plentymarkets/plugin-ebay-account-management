@@ -22,7 +22,7 @@
   "production": "Production",
   "refresh": "Update",
   "remove": "Remove",
-  "removeAccount": "Remove account?",
+  "removeAccount": "Remove account",
   "removeConfirmationMessage": "Really delete account?",
   "sandbox": "Sandbox",
   "save": "Save",
