@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "namespace": "EbayOAuth2",
   "name": "EbayOAuth2",
   "marketplaceName": {
@@ -11,6 +11,7 @@
     "de": "Plugin für die eBay-Kontoverwaltung OAuth2.",
     "en": "Plugin for eBay OAuth2 account management."
   },
+  "isClosedSource": true,
   "author": "plentymarkets GmbH",
   "authorIcon": "icon_author_xs.png",
   "email": "support@plentymarkets.eu",

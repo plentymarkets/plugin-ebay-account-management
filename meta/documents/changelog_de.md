@@ -1,4 +1,7 @@
 # Release Notes für EbayOAuth2
+## v1.2.0 (2017-10-24)
+### Geändert
+- Es wurden einige Anpassungen an der UI durchgeführt
 
 ## v1.1.0 (2017-10-18)
 ### Geändert
