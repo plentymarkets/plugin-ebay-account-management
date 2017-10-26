@@ -1,4 +1,8 @@
 # Release Notes für EbayOAuth2
+## v1.2.1 (2017-10-26)
+### Fix
+- Es wurde ein Bug behoben der verhinderte das Übersetzungen geladen wurden
+
 ## v1.2.0 (2017-10-24)
 ### Geändert
 - Es wurden einige Anpassungen an der UI durchgeführt
