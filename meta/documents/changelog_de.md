@@ -1,4 +1,8 @@
 # Release Notes für EbayOAuth2
+## v1.2.2 (2017-10-26)
+### Fix
+- "Erstellungsdatum" wird wieder richtig angezeigt
+
 ## v1.2.1 (2017-10-26)
 ### Fix
 - Es wurde ein Bug behoben der verhinderte das Übersetzungen geladen wurden

@@ -1,4 +1,8 @@
 # Release Notes for EbayOAuth2
+## v1.2.2 (2017-10-26)
+### Fix
+- "Created at" date is now displayed correctly
+
 ## v1.2.1 (2017-10-26)
 ### Fix
 - A bug was fixed that caused that some translations were not loaded
