@@ -4,7 +4,7 @@
   "menuEntries": [
     {
       "label": "menu.oAuth2",
-      "menu": "settings/markets/ebay/oauth2",
+      "menu": "system/markets/ebay/accounts",
       "urlKey": "oauth2",
       "entryPoint": "index.html?action=oauth2"
     }
