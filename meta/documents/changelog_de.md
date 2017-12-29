@@ -1,4 +1,8 @@
 # Release Notes für EbayOAuth2
+## v1.2.3 (2017-12-29)
+### Geändert
+- eBay-OAuth2 Konten können jetzt in dem Menüpunkt **System** » **Märkte** » **eBay**  » **Konten** » **OAuth2** hinzugefügt und bearbeitet werden. 
+
 ## v1.2.2 (2017-10-26)
 ### Fix
 - "Erstellungsdatum" wird wieder richtig angezeigt
