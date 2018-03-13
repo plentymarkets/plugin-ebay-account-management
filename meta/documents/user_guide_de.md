@@ -19,7 +19,7 @@ Bei der Freischaltung oder Aktualisierung eines Kontos wird ein Token erzeugt, d
 
 
 
-Im Menü **Einstellungen » Märkte » eBay » OAuth2** haben Sie die Möglichkeit Konten umzubenennen, zu aktualisieren oder zu löschen. Sie müssen z.B. das Konto in plentymarkets umbenennen, wenn Sie bei eBay Ihren Mitgliedsnamen geändert haben.    
+Im Menü **System » Märkte » eBay » Konten » OAuth2** haben Sie die Möglichkeit Konten umzubenennen, zu aktualisieren oder zu löschen. Sie müssen z.B. das Konto in plentymarkets umbenennen, wenn Sie bei eBay Ihren Mitgliedsnamen geändert haben.    
 
 ## Lizenz
 
