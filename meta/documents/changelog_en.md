@@ -1,4 +1,12 @@
 # Release Notes for EbayOAuth2
+## v1.2.5 (2018-03-13)
+### Changed
+- Changed links in plugin description
+
+## v1.2.4 (2018-03-13)
+### Changed
+- Adjusted plugin description and images for centralized login
+
 ## v1.2.3 (2017-12-29)
 ### Changed
 - eBay-OAuth2 accounts can now be added and edited under following menu **System** » **Markets** » **eBay**  » **Accounts** » **OAuth2**.
