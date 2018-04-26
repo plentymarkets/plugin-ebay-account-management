@@ -17,9 +17,44 @@ Im Menü **System » Märkte » eBay » Konten » OAuth2** schalten Sie neue Kon
     
 Bei der Freischaltung oder Aktualisierung eines Kontos wird ein Token erzeugt, der 18 Monate gültig ist. Nach Ablauf der Gültigkeit erfolgt keine automatische Warnung. Der Schlüssel verliert zudem seine Gültigkeit, wenn Sie Ihre Zugangsdaten bei eBay ändern.
 
+Im Menü **System » Märkte » eBay » Konten » OAuth2** haben Sie die Möglichkeit Konten umzubenennen, zu aktualisieren oder zu löschen. Sie müssen z.B. das Konto in plentymarkets umbenennen, wenn Sie bei eBay Ihren Mitgliedsnamen geändert haben.
 
 
-Im Menü **System » Märkte » eBay » Konten » OAuth2** haben Sie die Möglichkeit Konten umzubenennen, zu aktualisieren oder zu löschen. Sie müssen z.B. das Konto in plentymarkets umbenennen, wenn Sie bei eBay Ihren Mitgliedsnamen geändert haben.    
+## Erforderliche Berechtigungen für das eBay OAuth2-Plugin
+
+Damit Benutzer der Benutzerklasse **Variabel** das **eBay OAuth2-Plugin** nutzen können, sind Menüberechtigungen und REST-API Berechtigungen erforderlich.
+
+Berechtigungen werden im Menü **System » Einstellungen » Benutzer » Konten » Benutzerkonto » Tab: Berechtigung** zugewiesen.
+
+→ **Tipp**: Nutzen Sie die Filterfunktion, um nach Benutzern der Benutzerklasse **Variabel** zu suchen. Wählen Sie dazu im **Tab: Filter** in der Dropdown-Liste **Klasse** den Filter **Variabel** aus. Klicken Sie auf **Suchen**.
+
+#### Erforderliche Berechtigungen für das eBay OAuth2-Plugin
+
+Die folgenden Menüberechtigungen und REST-API Berechtigungen sind für variable Benutzerklassen erforderlich:
+
+#### **Erforderliche Menüberechtigungen:**
+- Einstellungen » Märkte » eBay » **Konten** » **OAuth2**
+
+#### Menüberechtigungen zuweisen:
+
+1. Öffnen Sie das Menü **System » Einstellungen » Benutzer » Konten**.
+2. Klicken Sie auf den **Benutzer**, dem sie Berechtigungen zuweisen wollen.
+3. Wechseln Sie zu **Tab: Berechtigung » Tab: Menü**.
+4. Setzen Sie ein Häkchen neben den benötigten Berechtigungen.
+5. **Speichern** Sie die Einstellungen.
+
+#### **Erforderliche REST-API Berechtigungen:**
+- Märkte » **Zugangsdaten** und alle untergeordneten Berechtigungen
+- Märkte » eBay » **Marktplatz** » **Marktplatz anzeigen**
+
+#### REST-API Berechtigungen zuweisen:
+
+1. Öffnen Sie das Menü **System » Einstellungen » Benutzer » Konten**.
+2. Klicken Sie auf den **Benutzer**, dem sie Berechtigungen zuweisen wollen.
+3. Wechseln Sie zu **Tab: Berechtigung » Tab: REST-API**.
+4. Setzen Sie ein Häkchen neben den benötigten Berechtigungen.
+5. **Speichern** Sie die Einstellungen.    
+
 
 ## Lizenz
 

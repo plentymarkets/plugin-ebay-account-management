@@ -3,6 +3,7 @@
 ## v1.3.0 (2018-04-26)
 ### Geändert
 - Die zugrunde liegende Technologie der UI wurde aktualisiert.
+- Dem User Guide wurden Informationen zu benötigten Berechtigungen für variable Benutzerklassen hinzugefügt.
 
 ## v1.2.5 (2018-03-13)
 ### Geändert
