@@ -3,6 +3,7 @@
 ## v1.3.0 (2018-04-26)
 ### Changed
 - The technology of the UI was updated.
+- Information about required rights for variable user classes was added to the user guide.
 
 ## v1.2.5 (2018-03-13)
 ### Changed
