@@ -1,10 +1,15 @@
 # Release Notes für EbayOAuth2
+
+## v1.3.0 (2018-04-26)
+### Geändert
+- Die zugrunde liegende Technologie der UI wurde aktualisiert.
+
 ## v1.2.5 (2018-03-13)
-### Changed
+### Geändert
 - Links in Plugin-Beschreibung angepasst
 
 ## v1.2.4 (2018-03-13)
-### Changed
+### Geändert
 - Plugin-Beschreibung und Bilder für zentralen Login angepasst
 
 ## v1.2.3 (2017-12-29)
