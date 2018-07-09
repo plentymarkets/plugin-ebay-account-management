@@ -8,7 +8,7 @@ Im Menü **System » Märkte » eBay » OAuth2** schalten Sie neue Konten für e
 
 ##### Neues Konto freischalten:
 
- 1. Öffnen Sie das Menü **System » Märkte » eBay » Konten » OAuth2**.
+ 1. Öffnen Sie das Menü **System » Märkte » eBay » OAuth2**.
  2. Wählen Sie **Production-Konto hinzufügen** für die Umgebung, wenn das neue Konto kein Testumgebungskonto sein soll. <br>
  → Sie werden zu eBay weitergeleitet und müssen dort Ihre Daten authentifizieren. <br>
  → Das Konto wird im Menü **OAuth2** angezeigt.
@@ -33,7 +33,7 @@ Berechtigungen werden im Menü **System » Einstellungen » Benutzer » Konten �
 Die folgenden Menüberechtigungen und REST-API Berechtigungen sind für variable Benutzerklassen erforderlich:
 
 #### **Erforderliche Menüberechtigungen:**
-- Einstellungen » Märkte » eBay » **Konten** » **OAuth2**
+- Einstellungen » Märkte » eBay »**OAuth2**
 
 #### Menüberechtigungen zuweisen:
 

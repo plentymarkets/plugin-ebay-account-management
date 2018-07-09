@@ -4,7 +4,7 @@
 
 ## Activating and changing accounts
 
-Go to **System » Markets » eBay » Accounts »OAuth2** to activate new accounts for eBay. You need your access data consisting of the user name and password. When changing your eBay access data, you have to update and synchronise your account in plentymarkets. plentymarkets allows you to manage several eBay accounts. Proceed as follows to add one or more accounts.
+Go to **System » Markets » eBay » OAuth2** to activate new accounts for eBay. You need your access data consisting of the user name and password. When changing your eBay access data, you have to update and synchronise your account in plentymarkets. plentymarkets allows you to manage several eBay accounts. Proceed as follows to add one or more accounts.
 
 ##### Activating a new account:
 
@@ -31,7 +31,7 @@ Use the **System » Settings » User » Accounts » User account » Tab: Right**
 The required menu rights and REST-API rights for variable user classes are listed below.
 
 #### **Required menu rights:**
-- Settings » Markets » eBay » **Accounts** » **OAuth2**
+- Settings » Markets » eBay » **OAuth2**
 
 #### Assigning menu rights:
 
