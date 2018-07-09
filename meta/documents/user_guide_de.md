@@ -4,7 +4,7 @@
 
 ## Konten freischalten und bearbeiten
 
-Im Menü **System » Märkte » eBay » Konten » OAuth2** schalten Sie neue Konten für eBay frei. Dafür benötigen Sie die Zugangsdaten bestehend aus Nutzername und Passwort. Wenn Sie Ihre eBay-Zugangsdaten ändern, müssen Sie das Konto aktualisieren und synchronisieren. Sie können mit plentymarkets mehrere eBay-Konten verwalten. Um ein oder mehrere Konten hinzuzufügen, gehen Sie folgendermaßen vor:
+Im Menü **System » Märkte » eBay » OAuth2** schalten Sie neue Konten für eBay frei. Dafür benötigen Sie die Zugangsdaten bestehend aus Nutzername und Passwort. Wenn Sie Ihre eBay-Zugangsdaten ändern, müssen Sie das Konto aktualisieren und synchronisieren. Sie können mit plentymarkets mehrere eBay-Konten verwalten. Um ein oder mehrere Konten hinzuzufügen, gehen Sie folgendermaßen vor:
 
 ##### Neues Konto freischalten:
 
@@ -17,7 +17,7 @@ Im Menü **System » Märkte » eBay » Konten » OAuth2** schalten Sie neue Kon
     
 Bei der Freischaltung oder Aktualisierung eines Kontos wird ein Token erzeugt, der 18 Monate gültig ist. Nach Ablauf der Gültigkeit erfolgt keine automatische Warnung. Der Schlüssel verliert zudem seine Gültigkeit, wenn Sie Ihre Zugangsdaten bei eBay ändern.
 
-Im Menü **System » Märkte » eBay » Konten » OAuth2** haben Sie die Möglichkeit Konten umzubenennen, zu aktualisieren oder zu löschen. Sie müssen z.B. das Konto in plentymarkets umbenennen, wenn Sie bei eBay Ihren Mitgliedsnamen geändert haben.
+Im Menü **System » Märkte » eBay » OAuth2** haben Sie die Möglichkeit Konten umzubenennen, zu aktualisieren oder zu löschen. Sie müssen z.B. das Konto in plentymarkets umbenennen, wenn Sie bei eBay Ihren Mitgliedsnamen geändert haben.
 
 
 ## Erforderliche Berechtigungen für das eBay OAuth2-Plugin

@@ -1,5 +1,9 @@
 # Release Notes für EbayOAuth2
 
+## v1.3.1 (2018-07-9)
+### Geändert
+- Das Level des Systembaums wurde angepasst
+
 ## v1.3.0 (2018-04-26)
 ### Geändert
 - Die zugrunde liegende Technologie der UI wurde aktualisiert.

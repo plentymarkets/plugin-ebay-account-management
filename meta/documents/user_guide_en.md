@@ -8,14 +8,14 @@ Go to **System » Markets » eBay » Accounts »OAuth2** to activate new account
 
 ##### Activating a new account:
 
- 1. Go to **System » Markets » eBay » Accounts »OAuth2**.
+ 1. Go to **System » Markets » eBay » OAuth2**.
  2. Select **Add Production account** for the environment if the account should not be a test account. <br>
  →  You will be forwarded to eBay and will have to authenticate your data. <br>
  → The account will be displayed in the **OAuth2** menu.
     
 When activating or updating an account, a token with a validity of 18 months will be generated. There will be no automatic warning at the end of the period of validity. The token will also become invalid when the eBay account data is changed.
 
-Go to **System » Markets » eBay » Accounts »OAuth2** to rename or delete accounts. You have to rename your account in plentymarkets, for example, when changing your eBay user name.
+Go to **System » Markets » eBay » OAuth2** to rename or delete accounts. You have to rename your account in plentymarkets, for example, when changing your eBay user name.
 
 
 ## Required rights for the eBay OAuth2 plugin
