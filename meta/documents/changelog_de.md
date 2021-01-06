@@ -1,5 +1,9 @@
 # Release Notes für EbayOAuth2
 
+## v1.3.4 (2020-01-06)
+### Geändert
+- plentyMarketplace-Kategorie aktualisiert.
+
 ## v1.3.3 (2020-01-06)
 ### Geändert
 - Die Plugin-Beschreibung wurde ins plentymarkets Handbuch umgezogen.
