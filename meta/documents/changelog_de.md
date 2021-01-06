@@ -1,5 +1,9 @@
 # Release Notes für EbayOAuth2
 
+## v1.3.3 (2020-01-06)
+### Geändert
+- Die Plugin-Beschreibung wurde ins plentymarkets Handbuch umgezogen.
+
 ## v1.3.1 (2018-07-9)
 ### Geändert
 - Das Level des Systembaums wurde angepasst
@@ -19,7 +23,7 @@
 
 ## v1.2.3 (2017-12-29)
 ### Geändert
-- eBay-OAuth2 Konten können jetzt in dem Menüpunkt **System** » **Märkte** » **eBay**  » **Konten** » **OAuth2** hinzugefügt und bearbeitet werden. 
+- eBay-OAuth2 Konten können jetzt in dem Menüpunkt **System** » **Märkte** » **eBay**  » **Konten** » **OAuth2** hinzugefügt und bearbeitet werden.
 
 ## v1.2.2 (2017-10-26)
 ### Fix

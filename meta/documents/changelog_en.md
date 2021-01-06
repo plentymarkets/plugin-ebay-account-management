@@ -1,8 +1,12 @@
 # Release Notes for EbayOAuth2
 
+## v1.3.3 (2020-01-06)
+### Changed
+- The plugin description was moved to the plentymarkets manual.
+
 ## v1.3.1 (2018-07-9)
 ### Changed
-- The system tree level was adjusted
+- The system tree level was adjusted.
 
 ## v1.3.0 (2018-04-26)
 ### Changed
